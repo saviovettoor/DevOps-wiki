@@ -1,0 +1,7 @@
+1. Add the Jacoco plugin(in plugins.sbt)
+	//code coverage report generation
+	addSbtPlugin("com.github.sbt" % "sbt-jacoco" % "3.0.3")
+
+2.Add the below line in common settings of build.sbt so that its available to all sub-projects
+	jacocoReportSettings := JacocoReportSettings().withFormats(JacocoReportFormats.XML, JacocoReportFormats.HTML),
+ 
