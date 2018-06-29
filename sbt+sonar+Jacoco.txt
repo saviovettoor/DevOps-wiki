@@ -4,4 +4,7 @@
 
 2.Add the below line in common settings of build.sbt so that its available to all sub-projects
 	jacocoReportSettings := JacocoReportSettings().withFormats(JacocoReportFormats.XML, JacocoReportFormats.HTML),
- 
+--
+Run the below command in your sbt shell to generate report (if you dont have sub projects)
+>jacoco
+--
