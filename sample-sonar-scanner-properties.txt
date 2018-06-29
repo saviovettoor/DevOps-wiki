@@ -1,0 +1,10 @@
+sonar.projectKey=MySampleProject
+sonar.projectName=REPO-NAME
+sonar.java.binaries= target/
+sonar.projectVersion=1.0 
+sonar.sources=src/main/java
+sonar.exclusions=**/*Test.java
+sonar.java.coveragePlugin=jacoco
+sonar.jacoco.reportPath=MySampleProject/target/scala-2.12/jacoco/data/jacoco.exec
+sonar.java.binaries=MySampleProject/target/scala-2.12/classes/
+
