@@ -4,3 +4,4 @@ sonar.projectVersion=1.0
 sonar.sources=src 
 sonar.typescript.lcov.reportPaths=coverage/lcov.info 
 sonar.exclusions=**/*.spec.*
+sonar.ts.jstest.reportspath=coverage
