@@ -8,3 +8,12 @@
 * Shell programing
 	* [Intersection-of-3-arrays](https://github.com/saviovettoor/DevOps-journey/wiki/intersection-of-3-arrays)
 	* [String reverse](https://github.com/saviovettoor/DevOps-journey/wiki/string-reversal)
+	* [Website Status](https://github.com/saviovettoor/DevOps-journey/wiki/Website-status)
+* Nagios
+* Docker
+* Docker Swarm
+* Kubernetes
+* Jenkins
+	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
+*
+
