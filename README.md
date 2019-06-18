@@ -6,4 +6,5 @@
 	* [SBT + Jacoco](https://github.com/saviovettoor/DevOps-journey/wiki/implement-and-Generate-Code-coverage-for-sbt-project)
 
 * Shell programing
-	* [intersection-of-3-arrays](https://github.com/saviovettoor/DevOps-journey/wiki/intersection-of-3-arrays)
+	* [Intersection-of-3-arrays](https://github.com/saviovettoor/DevOps-journey/wiki/intersection-of-3-arrays)
+	* [String reverse](https://github.com/saviovettoor/DevOps-journey/wiki/string-reversal)
