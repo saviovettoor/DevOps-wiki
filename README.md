@@ -9,6 +9,7 @@
 	* [Intersection-of-3-arrays](https://github.com/saviovettoor/DevOps-journey/wiki/intersection-of-3-arrays)
 	* [String reverse](https://github.com/saviovettoor/DevOps-journey/wiki/string-reversal)
 	* [Website Status](https://github.com/saviovettoor/DevOps-journey/wiki/Website-status)
+	* [transpose-file](https://github.com/saviovettoor/DevOps-journey/wiki/transpose-file.sh)
 * Nagios
 * Docker
 * Docker Swarm
