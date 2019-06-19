@@ -10,11 +10,13 @@
 	* [String reverse](https://github.com/saviovettoor/DevOps-journey/wiki/string-reversal)
 	* [Website Status](https://github.com/saviovettoor/DevOps-journey/wiki/Website-status)
 	* [transpose-file](https://github.com/saviovettoor/DevOps-journey/wiki/transpose-file.sh)
+	* [valid-phone-number](https://github.com/saviovettoor/DevOps-journey/wiki/valid-phone-number)
 * Nagios
 * Docker
 * Docker Swarm
 * Kubernetes
 * Jenkins
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
-*
+* HA Cluster
+	* [PCS Cluster](https://github.com/saviovettoor/DevOps-journey/wiki/PCS-Cluster-Setup)
 
