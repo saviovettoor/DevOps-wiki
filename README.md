@@ -16,6 +16,7 @@
 	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
 * Docker Swarm
 	* [swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
+	* [Rollout and Rollback In Docker Swarm](https://github.com/saviovettoor/DevOps-journey/wiki/Rollout-and-Rollback-In-Docker-Swarm)
 * Kubernetes
 * Jenkins
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
