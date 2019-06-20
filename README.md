@@ -13,6 +13,7 @@
 	* [valid-phone-number](https://github.com/saviovettoor/DevOps-journey/wiki/valid-phone-number)
 * Nagios
 * Docker
+	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
 * Docker Swarm
 	* [swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
 * Kubernetes
