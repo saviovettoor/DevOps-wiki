@@ -14,6 +14,7 @@
 * Nagios
 * Docker
 * Docker Swarm
+	* [swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
 * Kubernetes
 * Jenkins
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
