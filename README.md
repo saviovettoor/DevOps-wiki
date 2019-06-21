@@ -1,6 +1,7 @@
 # DevOps wiki
 
 * Linux
+	* [NFS Setup](https://github.com/saviovettoor/DevOps-wiki/wiki/Setting-Up-an-NFS-server-on-CentOS-7)
 * Command Line
 	* [awk](https://github.com/saviovettoor/DevOps-wiki/wiki/AWK)
 	* [sed]()
@@ -24,7 +25,18 @@
 * Kubernetes
 * Jenkins
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
+* Artifactory Manager
+	* Jfrog
+		* [Installation]()
+	* Nexus
+		* [Installation]()
+* Configuration Management
+	* Chef
+		* [Challenges](https://github.com/saviovettoor/chef) 
+	* Ansible
+		
 * HA Cluster
 	* [PCS Cluster](https://github.com/saviovettoor/DevOps-journey/wiki/PCS-Cluster-Setup)
+	* [keepalived failover setup on Centos 7](https://github.com/saviovettoor/DevOps-wiki/wiki/Keepalived-Cluster-Setup)
 * Some interesting Tools
 	* [Monitor filesystem Events](https://github.com/saviovettoor/DevOps-wiki/wiki/Monitor-filesystem-Events)
