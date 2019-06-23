@@ -39,7 +39,7 @@
 	* Ansible
 * SSL
 	* [Create a self-signed certificate](https://github.com/saviovettoor/DevOps-wiki/wiki/self-signed-certificates)
-	* [Let’s Encrypt SSL Certificates using Standalone Mode](https://github.com/saviovettoor/DevOps-wiki/wiki/Let%E2%80%99s-Encrypt-SSL-Certificates-using-Standalone-Mode)
+	* [Let’s Encrypt SSL Certificates using Standalone/Manual Mode](https://github.com/saviovettoor/DevOps-wiki/wiki/Let%E2%80%99s-Encrypt-SSL-Certificates-using-Standalone-Manual-Mode)
 		
 * HA Cluster
 	* [PCS Cluster](https://github.com/saviovettoor/DevOps-journey/wiki/PCS-Cluster-Setup)
