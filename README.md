@@ -18,6 +18,7 @@
 	* [Valid-phone-number](https://github.com/saviovettoor/DevOps-journey/wiki/valid-phone-number)
 * Nagios
 * Docker
+	* [Docker-CE installation on Centos](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-CE-installation-on-Centos)
 	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
 * Docker Swarm
 	* [Swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
@@ -36,6 +37,9 @@
 	* Chef
 		* [Challenges](https://github.com/saviovettoor/chef) 
 	* Ansible
+* SSL
+	* [Create a self-signed certificate](https://github.com/saviovettoor/DevOps-wiki/wiki/self-signed-certificates)
+	* [Let’s Encrypt SSL Certificates using Standalone Mode](https://github.com/saviovettoor/DevOps-wiki/wiki/Let%E2%80%99s-Encrypt-SSL-Certificates-using-Standalone-Mode)
 		
 * HA Cluster
 	* [PCS Cluster](https://github.com/saviovettoor/DevOps-journey/wiki/PCS-Cluster-Setup)
