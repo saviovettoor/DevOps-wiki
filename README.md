@@ -28,6 +28,8 @@
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
 	* [Performance Analysis with Lighthouse](https://kitconcept.com/blog/continuous-performance-analysis-with-lighthouse-and-jenkins/)
 	* [OWASP Zed Attack Proxy in CI pipeline ](https://github.com/saviovettoor/DevOps-wiki/wiki/OWASP-Zed-Attack-Proxy-in-a-CI-Pipeline)
+	* Pipeline
+		* [Parameter](https://github.com/saviovettoor/DevOps-wiki/wiki/parameter)
 * Artifactory Manager
 	* Jfrog
 		* [Installation]()
