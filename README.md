@@ -20,6 +20,7 @@
 * Docker
 	* [Docker-CE installation on Centos](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-CE-installation-on-Centos)
 	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
+	* [Deploy a registry](https://github.com/saviovettoor/DevOps-wiki/wiki/Deploy-a-registry)
 * Docker Swarm
 	* [Swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
 	* [Rollout and Rollback In Docker Swarm](https://github.com/saviovettoor/DevOps-journey/wiki/Rollout-and-Rollback-In-Docker-Swarm)
