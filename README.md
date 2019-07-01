@@ -36,6 +36,8 @@
 		* [Installation]()
 	* Nexus
 		* [Installation]()
+* log analytics
+	* [ELK Setup on Centos](https://github.com/saviovettoor/DevOps-wiki/wiki/ELK-Setup-On-Centos-7)
 * Configuration Management
 	* Chef
 		* [Challenges](https://github.com/saviovettoor/chef) 
@@ -43,7 +45,6 @@
 * SSL
 	* [Create a self-signed certificate](https://github.com/saviovettoor/DevOps-wiki/wiki/self-signed-certificates)
 	* [Let’s Encrypt SSL Certificates using Standalone/Manual Mode](https://github.com/saviovettoor/DevOps-wiki/wiki/Let%E2%80%99s-Encrypt-SSL-Certificates-using-Standalone-Manual-Mode)
-		
 * HA Cluster
 	* [PCS Cluster](https://github.com/saviovettoor/DevOps-journey/wiki/PCS-Cluster-Setup)
 	* [keepalived failover setup on Centos 7](https://github.com/saviovettoor/DevOps-wiki/wiki/Keepalived-Cluster-Setup)
