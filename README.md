@@ -25,10 +25,11 @@
 	* [Swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
 	* [Rollout and Rollback In Docker Swarm](https://github.com/saviovettoor/DevOps-journey/wiki/Rollout-and-Rollback-In-Docker-Swarm)
 * Kubernetes
-* Jenkins
+* CI/CD
 	* [CJE Notes](https://github.com/saviovettoor/DevOps-journey/wiki/CJE-Notes)
 	* [Performance Analysis with Lighthouse](https://kitconcept.com/blog/continuous-performance-analysis-with-lighthouse-and-jenkins/)
 	* [OWASP Zed Attack Proxy in CI pipeline ](https://github.com/saviovettoor/DevOps-wiki/wiki/OWASP-Zed-Attack-Proxy-in-a-CI-Pipeline)
+	* [Pa11y Installation On centos](https://github.com/saviovettoor/DevOps-wiki/wiki/Pa11y-Installation-On-centos)
 	* Pipeline
 		* [Parameter](https://github.com/saviovettoor/DevOps-wiki/wiki/parameter)
 * Artifactory Manager
