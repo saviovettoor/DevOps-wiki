@@ -40,6 +40,7 @@
 * Webserver
 	* HTTPD
 		* [apache mod_proxy load balancing](https://github.com/saviovettoor/DevOps-wiki/wiki/apache-mod_proxy-load-balancing)
+		* [httpd Content Caching](https://github.com/saviovettoor/DevOps-wiki/wiki/httpd-Content-Caching)
 	* Nginx
 * log analytics
 	* [ELK Setup on Centos](https://github.com/saviovettoor/DevOps-wiki/wiki/ELK-Setup-On-Centos-7)
