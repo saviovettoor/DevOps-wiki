@@ -18,7 +18,7 @@
 	* [Valid-phone-number](https://github.com/saviovettoor/DevOps-journey/wiki/valid-phone-number)
 * Nagios
 * Docker
-	* [Docker-CE installation on Centos](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-CE-installation-on-Centos)
+	* [Docker-CE installation](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-CE-installation)
 	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
 	* [Deploy a registry](https://github.com/saviovettoor/DevOps-wiki/wiki/Deploy-a-registry)
 	* [Anchore-Docker_Image_Scanner](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-Image-Scanner---Anchore)
