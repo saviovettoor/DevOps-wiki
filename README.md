@@ -2,6 +2,8 @@
 
 * Linux
 	* [NFS Setup](https://github.com/saviovettoor/DevOps-wiki/wiki/Setting-Up-an-NFS-server-on-CentOS-7)
+* Networking
+	* [OSI](https://github.com/saviovettoor/DevOps-wiki/wiki/OSI-Model)
 * Command Line
 	* [awk](https://github.com/saviovettoor/DevOps-wiki/wiki/AWK)
 	* [sed]()
