@@ -26,6 +26,7 @@
 	* [Add a health check to your Docker container](https://github.com/saviovettoor/DevOps-journey/wiki/Health-Check-for-Docker-Container)
 	* [Deploy a registry](https://github.com/saviovettoor/DevOps-wiki/wiki/Deploy-a-registry)
 	* [Anchore-Docker_Image_Scanner](https://github.com/saviovettoor/DevOps-wiki/wiki/Docker-Image-Scanner---Anchore)
+	* [Protect the Docker daemon socket](https://github.com/saviovettoor/DevOps-wiki/wiki/Protect-the-Docker-daemon-socket)
 * Docker Swarm
 	* [Swarm cluster setup on centos](https://github.com/saviovettoor/DevOps-journey/wiki/Setting-Up-a-Docker-Swarm-Cluster-on-Centos)
 	* [Rollout and Rollback In Docker Swarm](https://github.com/saviovettoor/DevOps-journey/wiki/Rollout-and-Rollback-In-Docker-Swarm)
